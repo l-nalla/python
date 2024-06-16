@@ -3,7 +3,7 @@ from collections import defaultdict
 class Solution:
     def groupanagrams(self, strs):
         anagram_group = {}
-        result = []
+
 
         for s in strs:
             ss = "".join(sorted(s))
