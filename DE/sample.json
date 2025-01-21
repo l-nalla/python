@@ -1,0 +1,21 @@
+[
+{
+    "title": "python programmming",
+    "author": "James",
+    "price": 40.4,
+    "pages": 215
+},
+{
+    "title": "Java programmming",
+    "author": "Jhon",
+    "price": 41,
+    "pages": 100
+},
+{
+    "title": "C programmming",
+    "author": "Jamey",
+    "price": 30,
+    "pages": 456,
+    "sold items": 4656
+}
+]
